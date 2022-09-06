@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_default_height">194dp</dimen>
+    <dimen name="default_padding_views">8dp</dimen>
+    <dimen name="default_card_margin">8dp</dimen>
+</resources>
